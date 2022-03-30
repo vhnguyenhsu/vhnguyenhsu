@@ -1,5 +1,5 @@
-👋 Hi, I’m Vu 👀 I’m interested in website
-🌱 I’m currently learning webdev
+👋 Hi, I’m Vu 👀 I’m interested in website dev
+🌱 I’m currently a learner
 📫 git
 
 <!---
